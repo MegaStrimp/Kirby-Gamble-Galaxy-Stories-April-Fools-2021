@@ -2,7 +2,7 @@
 
 //Variables
 
-global.discordDetailText = "April Fools";
+global.discordDetailText = "The Future";
 global.discordLargeImage = "ggs_icon";
 
 //Music

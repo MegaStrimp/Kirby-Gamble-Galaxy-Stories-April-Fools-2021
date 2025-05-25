@@ -1,14 +1,14 @@
 {
-  "resourceType": "GMPath",
-  "resourceVersion": "1.0",
-  "name": "pth_StageSelect",
-  "closed": false,
-  "kind": 1,
-  "parent": {
-    "name": "Paths",
-    "path": "folders/Paths.yy",
+  "$GMPath":"",
+  "%Name":"pth_StageSelect",
+  "closed":false,
+  "kind":1,
+  "name":"pth_StageSelect",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
   },
-  "points": [
+  "points":[
     {"speed":100.0,"x":59.0,"y":192.0,},
     {"speed":100.0,"x":77.0,"y":182.0,},
     {"speed":100.0,"x":105.0,"y":218.0,},
@@ -26,5 +26,7 @@
     {"speed":100.0,"x":289.0,"y":142.0,},
     {"speed":100.0,"x":308.0,"y":134.0,},
   ],
-  "precision": 4,
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
 }

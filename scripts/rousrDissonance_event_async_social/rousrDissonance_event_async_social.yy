@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "rousrDissonance_event_async_social",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Internal",
-    "path": "folders/Scripts/Extensions/Dissonance/Internal.yy",
+  "$GMScript":"v1",
+  "%Name":"rousrDissonance_event_async_social",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"rousrDissonance_event_async_social",
+  "parent":{
+    "name":"Internal",
+    "path":"folders/Scripts/Extensions/Dissonance/Internal.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

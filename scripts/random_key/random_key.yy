@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "random_key",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Example",
-    "path": "folders/Scripts/Extensions/Dissonance/Example.yy",
+  "$GMScript":"v1",
+  "%Name":"random_key",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"random_key",
+  "parent":{
+    "name":"Example",
+    "path":"folders/Scripts/Extensions/Dissonance/Example.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

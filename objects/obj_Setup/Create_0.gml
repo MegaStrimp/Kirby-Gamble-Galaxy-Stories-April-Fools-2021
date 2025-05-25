@@ -22,8 +22,8 @@ scr_LoadGame();
 global.aprilFools = true;
 if (global.aprilFools)
 {
-	global.versionNumber = "April Fools 2021";
-	window_set_caption("Kirby Gamble Galaxy Stories - " + global.versionNumber);
+	global.versionNumber = "The Future";
+	window_set_caption("Kirby Gamble Galaxy Stories ~ " + global.versionNumber);
 }
 global.beatKaabi = false;
 global.beatFrosty = false;

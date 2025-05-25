@@ -40,7 +40,7 @@ if (!global.pause)
 	x += hsp;
 	y += vsp;
 	
-	if (isTop)
+	if (isTop) and (instance_exists(topWallOwner))
 	{
 		hsp = topWallOwner.hsp;
 		vsp = topWallOwner.vsp;
@@ -127,18 +127,6 @@ if (!global.pause)
 }
 
 //Hurt
-
-if (isTop)
-{
-	if (!instance_exists(topWallOwner))
-	{
-		instance_destroy();
-	}
-	else
-	{
-		if (hp <= 0) topWallOwner.hp = 0;
-	}
-}
 
 if (object)
 {

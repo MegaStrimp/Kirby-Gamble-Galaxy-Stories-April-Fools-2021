@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_Object_Inhale",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Object",
-    "path": "folders/Scripts/Object.yy",
+  "$GMScript":"v1",
+  "%Name":"scr_Object_Inhale",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_Object_Inhale",
+  "parent":{
+    "name":"Object",
+    "path":"folders/Scripts/Object.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

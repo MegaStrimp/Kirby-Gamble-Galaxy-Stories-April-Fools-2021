@@ -135,11 +135,6 @@ if (!global.pause)
 	if (x <= ((sprite_get_width(mask_index) / 2) + 1)) dir = 1;
 	if (x >= (room_width - ((sprite_get_width(mask_index) / 2) + 1))) dir = -1;
 	
-	//Clamp
-	
-	x = clamp(x,0 + (sprite_get_width(mask_index) / 2),room_width - (sprite_get_width(mask_index) / 2));
-	y = clamp(y,0 + (sprite_get_height(mask_index) / 2),room_height + 32 + (sprite_get_height(mask_index) / 2));
-	
 	//Death On Bottom
 	
 	if (y >= room_height + 24) destroyTimer = 0;

@@ -1,18 +1,20 @@
 {
-  "resourceType": "GMPath",
-  "resourceVersion": "1.0",
-  "name": "pth_Skylands_Enemy4",
-  "closed": false,
-  "kind": 1,
-  "parent": {
-    "name": "Paths",
-    "path": "folders/Paths.yy",
+  "$GMPath":"",
+  "%Name":"pth_Skylands_Enemy4",
+  "closed":false,
+  "kind":1,
+  "name":"pth_Skylands_Enemy4",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
   },
-  "points": [
+  "points":[
     {"speed":100.0,"x":360.0,"y":-24.0,},
     {"speed":100.0,"x":360.0,"y":48.0,},
     {"speed":100.0,"x":432.0,"y":120.0,},
     {"speed":100.0,"x":504.0,"y":120.0,},
   ],
-  "precision": 4,
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
 }

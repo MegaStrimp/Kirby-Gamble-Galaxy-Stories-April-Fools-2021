@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "rousr_dissonance_respond_to_join",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Dissonance",
-    "path": "folders/Scripts/Extensions/Dissonance.yy",
+  "$GMScript":"v1",
+  "%Name":"rousr_dissonance_respond_to_join",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"rousr_dissonance_respond_to_join",
+  "parent":{
+    "name":"Dissonance",
+    "path":"folders/Scripts/Extensions/Dissonance.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
