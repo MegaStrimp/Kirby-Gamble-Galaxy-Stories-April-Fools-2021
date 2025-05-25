@@ -3,7 +3,7 @@
 //Variables
 
 global.discordDetailText = "Working On A Beta";
-global.discordLargeImage = "ggs_icon";
+global.discordLargeImage = "icon";
 
 //Stage Number
 

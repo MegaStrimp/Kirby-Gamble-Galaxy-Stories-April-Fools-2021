@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":76.85725,
+  "duration":76.81161,
   "name":"mus_AF_Boss",
   "parent":{
     "name":"April Fools",

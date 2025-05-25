@@ -6,7 +6,7 @@
   "name":"rousrDissonance_event_async_social",
   "parent":{
     "name":"Internal",
-    "path":"folders/Scripts/Extensions/Dissonance/Internal.yy",
+    "path":"folders/Extensions/Dissonance/Scripts/Internal.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

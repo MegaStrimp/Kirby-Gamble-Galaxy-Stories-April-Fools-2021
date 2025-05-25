@@ -2,8 +2,8 @@
 
 //Variables
 
-global.discordDetailText = "The Future";
-global.discordLargeImage = "ggs_icon";
+global.discordDetailText = "Credits";
+global.discordLargeImage = "icon";
 
 //Music
 

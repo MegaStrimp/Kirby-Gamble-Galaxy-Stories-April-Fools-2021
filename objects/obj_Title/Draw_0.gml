@@ -25,10 +25,10 @@ gpu_set_alphatestenable(false);
 gpu_set_alphatestenable(false);
 gpu_set_blendmode(bm_normal);
 
-//Draw Version Number
-
 draw_set_font(fnt_Menu);
 draw_set_color(c_white);
 draw_set_valign(fa_bottom);
-draw_text(6,room_height,"Version - " + string(global.versionNumber));
+draw_set_halign(fa_center);
+draw_text(room_width / 2,room_height,"PRESS START");
 draw_set_valign(fa_top);
+draw_set_halign(fa_left);

@@ -3,7 +3,7 @@
 //Variables
 
 global.discordDetailText = "Title Screen";
-global.discordLargeImage = "ggs_icon";
+global.discordLargeImage = "icon";
 
 //Music
 

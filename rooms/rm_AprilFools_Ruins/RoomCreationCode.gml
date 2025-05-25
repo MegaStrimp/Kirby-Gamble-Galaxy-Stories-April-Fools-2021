@@ -2,8 +2,8 @@
 
 //Variables
 
-global.discordDetailText = "The Future";
-global.discordLargeImage = "ggs_icon";
+global.discordDetailText = "Forgotten Ruins";
+global.discordLargeImage = "icon";
 
 //Stage Number
 

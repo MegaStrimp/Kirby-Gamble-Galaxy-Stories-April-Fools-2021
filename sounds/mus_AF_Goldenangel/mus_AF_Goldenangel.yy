@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":239.00148,
+  "duration":243.36835,
   "name":"mus_AF_Goldenangel",
   "parent":{
     "name":"April Fools",

@@ -16,7 +16,7 @@
   "exportToGame":true,
   "extensionVersion":"1.1.0",
   "files":[
-    {"$GMExtensionFile":"","%Name":"","constants":[],"copyToTargets":35184372089026,"filename":"rousrDissonance.dll","final":"discord_shutdown","functions":[
+    {"$GMExtensionFile":"","%Name":"rousrDissonance.dll","constants":[],"copyToTargets":35184372089026,"filename":"rousrDissonance.dll","final":"discord_shutdown","functions":[
         {"$GMExtensionFunction":"","%Name":"discord_init","argCount":0,"args":[1,1,],"documentation":"","externalName":"Init","help":"initialize Discord with the application ID and Steam ID (_application_id, [_steam_id])","hidden":false,"kind":1,"name":"discord_init","resourceType":"GMExtensionFunction","resourceVersion":"2.0","returnType":2,},
         {"$GMExtensionFunction":"","%Name":"discord_update_presence","argCount":0,"args":[],"documentation":"","externalName":"UpdatePresence","help":"send the presences updates to Discord, call after sets.","hidden":false,"kind":1,"name":"discord_update_presence","resourceType":"GMExtensionFunction","resourceVersion":"2.0","returnType":2,},
         {"$GMExtensionFunction":"","%Name":"discord_run_callbacks","argCount":0,"args":[],"documentation":"","externalName":"RunCallbacks","help":"run any pending discord call backs - call once per step","hidden":false,"kind":1,"name":"discord_run_callbacks","resourceType":"GMExtensionFunction","resourceVersion":"2.0","returnType":2,},
@@ -33,7 +33,7 @@
         {"$GMExtensionFunction":"","%Name":"RegisterCallbacks","argCount":0,"args":[1,1,1,1,],"documentation":"","externalName":"RegisterCallbacks","help":"","hidden":false,"kind":1,"name":"RegisterCallbacks","resourceType":"GMExtensionFunction","resourceVersion":"2.0","returnType":1,},
         {"$GMExtensionFunction":"","%Name":"discord_respond","argCount":0,"args":[1,2,],"documentation":"","externalName":"Respond","help":"send a reply to `ask to join` request (_user_id, _reply)","hidden":false,"kind":1,"name":"discord_respond","resourceType":"GMExtensionFunction","resourceVersion":"2.0","returnType":2,},
         {"$GMExtensionFunction":"","%Name":"discord_shutdown","argCount":0,"args":[],"documentation":"","externalName":"Shutdown","help":"Shutdown Discord","hidden":false,"kind":1,"name":"discord_shutdown","resourceType":"GMExtensionFunction","resourceVersion":"2.0","returnType":2,},
-      ],"init":"","kind":1,"name":"","order":[
+      ],"init":"","kind":1,"name":"rousrDissonance.dll","order":[
         {"name":"RegisterCallbacks","path":"extensions/extRousrDissonance/extRousrDissonance.yy",},
         {"name":"discord_init","path":"extensions/extRousrDissonance/extRousrDissonance.yy",},
         {"name":"discord_update_presence","path":"extensions/extRousrDissonance/extRousrDissonance.yy",},
@@ -78,8 +78,8 @@
   "optionsFile":"options.json",
   "packageId":"",
   "parent":{
-    "name":"Extensions",
-    "path":"folders/Extensions.yy",
+    "name":"Extension",
+    "path":"folders/Extensions/Dissonance/Extension.yy",
   },
   "productId":"",
   "resourceType":"GMExtension",

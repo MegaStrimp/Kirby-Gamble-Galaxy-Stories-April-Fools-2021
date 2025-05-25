@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"rousr_dissonance_set_small_image",
   "parent":{
-    "name":"Dissonance",
-    "path":"folders/Scripts/Extensions/Dissonance.yy",
+    "name":"Scripts",
+    "path":"folders/Extensions/Dissonance/Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

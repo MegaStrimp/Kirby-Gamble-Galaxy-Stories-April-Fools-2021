@@ -22,8 +22,8 @@ scr_LoadGame();
 global.aprilFools = true;
 if (global.aprilFools)
 {
-	global.versionNumber = "The Future";
-	window_set_caption("Kirby Gamble Galaxy Stories ~ " + global.versionNumber);
+	global.versionNumber = "1.0.1";
+	window_set_caption("Kirby Gamble Galaxy Stories ~ The Future " + global.versionNumber);
 }
 global.beatKaabi = false;
 global.beatFrosty = false;
@@ -162,10 +162,10 @@ global.hatPaletteHammerKssuP2 = 0;
 
 global.discordDetailText = "Startup";
 global.discordStateText = "";
-global.discordLargeImage = "ggs_icon";
-global.discordLargeImageText = "Kirby Gamble Galaxy Stories";
-global.discordSmallImage = "teamgamble_icon";
-global.discordSmallImageText = "Team Gamble";
+global.discordLargeImage = "icon";
+global.discordLargeImageText = "Kirby Gamble Galaxy Stories ~ The Future";
+global.discordSmallImage = "";
+global.discordSmallImageText = "";
 
 //Fonts
 
@@ -174,7 +174,7 @@ global.bitmapKssu = font_add_sprite_ext(spr_Hud_Dialogue_Font_Kssu,mapStringKssu
 
 //Discord Rich Presence Setup
 
-var appId = "754628961522286702";
+var appId = "1376076384597704805";
 
 if (!rousr_dissonance_create(appId)) Error_msg = "Discord RPC unable to initialize";
 

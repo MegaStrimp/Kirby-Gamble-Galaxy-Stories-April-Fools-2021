@@ -6,7 +6,7 @@
   "name":"random_key",
   "parent":{
     "name":"Example",
-    "path":"folders/Scripts/Extensions/Dissonance/Example.yy",
+    "path":"folders/Extensions/Dissonance/Scripts/Example.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"rm_AprilFools_CandyBoss",
-  "creationCodeFile":"${project_dir}/rooms/rm_AprilFools_CandyBoss/RoomCreationCode.gml",
+  "creationCodeFile":"rooms/rm_AprilFools_CandyBoss/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,

@@ -11,8 +11,8 @@
   "name":"rousrDissonance",
   "overriddenProperties":[],
   "parent":{
-    "name":"Dissonance",
-    "path":"folders/Objects/Dissonance.yy",
+    "name":"Object",
+    "path":"folders/Extensions/Dissonance/Object.yy",
   },
   "parentObjectId":null,
   "persistent":true,

@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":1,
   "conversionMode":0,
-  "duration":1.229,
+  "duration":1.1944444,
   "name":"mus_AF_Fredbear",
   "parent":{
     "name":"April Fools",
