@@ -818,6 +818,8 @@ if (!global.pause)
 				dialogue.targetRoom = rm_AprilFools_Credits;
 				dialogue.stopsCutscene = true;
 				global.beatMarx = true;
+				global.completed = true;
+				scr_SaveGame();
 				destroy = true;
 				break;
 			}

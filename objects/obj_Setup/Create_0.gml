@@ -29,6 +29,7 @@ global.beatKaabi = false;
 global.beatFrosty = false;
 global.beatMarx = false;
 if (global.aprilFools) global.playerLives = 99;
+global.completed = false;
 
 //Global Variables
 
